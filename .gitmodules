@@ -1,0 +1,18 @@
+[submodule "miniMD"]
+	path = miniMD
+	url = https://github.com/Mantevo/miniMD.git
+[submodule "ExaMiniMD"]
+	path = ExaMiniMD
+	url = https://github.com/ecp-copa/ExaMiniMD.git
+[submodule "miniFE"]
+	path = miniFE
+	url = https://github.com/Mantevo/miniFE
+[submodule "miniAero"]
+	path = miniAero
+	url = https://github.com/Mantevo/miniAero
+[submodule "SNAP-Kokkos"]
+	path = SNAP
+	url = https://github.com/UoB-HPC/SNAP-Kokkos
+[submodule "hpcg"]
+	path = hpcg
+	url = https://github.com/kokkos/hpcg
